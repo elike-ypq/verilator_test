@@ -2,6 +2,7 @@
 
 ### 1	文件结构如下
 
+```
 ├── cmake_hello_c ---------------------------------->CMake hello项目
 │   ├── build
 │   ├── CMakeLists.txt  ----------------------------->cmake 的主文件
@@ -59,6 +60,9 @@
 │   ├── sub.v
 │   └── top.v
 ├── README.md
+```
+
+
 
 ### 2	生成Microsoft Visual Studio 2019项目
 
